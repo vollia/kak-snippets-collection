@@ -1,0 +1,4 @@
+class ${1:Name}:
+
+    def __init__(self$2):
+        $0
